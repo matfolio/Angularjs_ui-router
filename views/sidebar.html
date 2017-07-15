@@ -1,0 +1,9 @@
+<div>
+	<div class="col-md-12"><h1 style="text-align:center;color:white">{{ Info }}</h1></div>
+	<div ng-repeat = " Content in Contents">
+		<div class ="row">
+			<a class="col-md-12 route" ui-sref="Contact({Name: Content.Name})">{{ Content.Name }} </a>
+		</div>
+
+	</div>
+</div>

@@ -1,0 +1,14 @@
+<div class= "container">
+	
+	<h1>{{ viewContent }} Showing the nested views in action<h1>
+	<div class = "row">
+		<div class= "col-md-4 submenu"> 
+			<div class="route"><a ui-sref=".details">Details</a></div>
+	    	<div class="route"><a ui-sref=".founder" >Founder</a></div>
+    	</div>
+    	<div class= "col-md-7 col-md-offset-1 content"> 
+			<ui-view>Rendering goes here....</ui-view>
+    	</div>
+	</div>
+
+</div>

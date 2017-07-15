@@ -1,0 +1,105 @@
+* {
+	font-family:'Sofia';
+	font-size: 20px;
+	color: #ab4621;
+}
+.navbar-default {
+    background-color: #ab4621;
+    border-color: #ab4621;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color:#008000;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #008000;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: #008000;
+}
+
+.submenu {
+    background-color: #ab4621;
+    color: #fff;
+    padding:20px;
+    border-radius:10px;
+    border:1px solid #ccc;
+}
+
+.route{
+    padding:20px 10px;
+    color:white;
+    text-decoration:none !important;
+    
+}
+
+.route:hover, .route:active, .route:focus{
+
+    color:white;
+     background-color: #008000;
+    
+}
+
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 10px #ccc;
+}
+
+img {
+    width:100%;
+    border:  2px solid #636f54;
+    border-radius: 5px;
+    height:200px;
+
+}
+
+.wrapper {
+    width:400px;
+    margin:10px;
+    border-radius: 10px;
+    border: 2px solid #008000;
+    float:left;
+    box-shadow: 10px 10px 10px #ccc;
+
+}
+.head {
+    background-color: #008000;
+}
+
+.sidebar {
+    background-color: #ab4621;
+    border-color: #ab4621;
+    color:#fff;
+
+
+}
+.footer {
+    width:100%;
+    padding:70px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:20px;
+    text-align:center;
+    background-color: #000;
+    border-color: #000;
+    color:#fff;
+    bottom:0px;
+}

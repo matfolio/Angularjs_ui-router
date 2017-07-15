@@ -1,0 +1,38 @@
+[
+   {
+   	"url": "image1.jpg",
+      "Name" : "Muftau",
+      "profession" : "Software Developer",
+      "status" : "Graduate",
+      "country" : "Finland"
+   },
+   {
+   	  "url": "image2.jpg",
+      "Name" : "Mikko",
+      "profession" : "Game Developer",
+      "status" : "Graduate",
+      "country" : "Switzerland"
+   },
+   {
+   	  "url": "image3.jpg",
+      "Name" : "Jenni",
+      "profession" : "Software Designer",
+      "status" : "Graduate",
+      "country" : "Finland"
+   },
+   {
+   	  "url": "image4.jpg",
+      "Name" : "Tommy",
+      "profession" : "Database Expert",
+      "status" : "Graduate",
+      "country" : "Estonia"
+   },
+   {
+   	  "url": "image2.jpg",
+      "Name" : "Alison",
+      "profession" : "Marketer",
+      "status" : "Graduate",
+      "country" : "UK"
+   }
+	
+]
